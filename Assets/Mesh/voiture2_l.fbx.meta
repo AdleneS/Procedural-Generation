@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 91c3930eb5f8d4b488af7d2fe53aacd0
+timeCreated: 1464732888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aerodynamique2_l
+    100002: aerodynamique3_l
+    100004: aerodynamique4_l
+    100006: aerodynamique_arriere
+    100008: aerodynamique_avant
+    100010: aerodynamique_l
+    100012: arriere
+    100014: arriere_roue1_l
+    100016: arriere_roue2_l
+    100018: avant
+    100020: avant_roue3_l
+    100022: avant_roue4_l
+    100024: Etrier_l
+    100026: Etrier_l 1
+    100028: Etrier_l 2
+    100030: Etrier_l 3
+    100032: frein_aerodynamique
+    100034: roue
+    100036: roue1
+    100038: roue2
+    100040: roue3
+    100042: roue4
+    100044: Stator
+    100046: Stator 1
+    100048: Stator 2
+    100050: Stator 3
+    100052: vitre_phare_l
+    100054: voiture2_l
+    100056: //RootNode
+    400000: aerodynamique2_l
+    400002: aerodynamique3_l
+    400004: aerodynamique4_l
+    400006: aerodynamique_arriere
+    400008: aerodynamique_avant
+    400010: aerodynamique_l
+    400012: arriere
+    400014: arriere_roue1_l
+    400016: arriere_roue2_l
+    400018: avant
+    400020: avant_roue3_l
+    400022: avant_roue4_l
+    400024: Etrier_l
+    400026: Etrier_l 1
+    400028: Etrier_l 2
+    400030: Etrier_l 3
+    400032: frein_aerodynamique
+    400034: roue
+    400036: roue1
+    400038: roue2
+    400040: roue3
+    400042: roue4
+    400044: Stator
+    400046: Stator 1
+    400048: Stator 2
+    400050: Stator 3
+    400052: vitre_phare_l
+    400054: //RootNode
+    400056: voiture2_l
+    2300000: aerodynamique2_l
+    2300002: aerodynamique3_l
+    2300004: aerodynamique4_l
+    2300006: aerodynamique_l
+    2300008: arriere_roue1_l
+    2300010: arriere_roue2_l
+    2300012: avant_roue3_l
+    2300014: avant_roue4_l
+    2300016: Etrier_l
+    2300018: Etrier_l 1
+    2300020: Etrier_l 2
+    2300022: Etrier_l 3
+    2300024: vitre_phare_l
+    2300026: voiture2_l
+    3300000: aerodynamique2_l
+    3300002: aerodynamique3_l
+    3300004: aerodynamique4_l
+    3300006: aerodynamique_l
+    3300008: arriere_roue1_l
+    3300010: arriere_roue2_l
+    3300012: avant_roue3_l
+    3300014: avant_roue4_l
+    3300016: Etrier_l
+    3300018: Etrier_l 1
+    3300020: Etrier_l 2
+    3300022: Etrier_l 3
+    3300024: vitre_phare_l
+    3300026: voiture2_l
+    4300000: Etrier_l
+    4300002: arriere_roue1_l
+    4300004: Etrier_l
+    4300006: arriere_roue2_l
+    4300008: Etrier_l
+    4300010: avant_roue3_l
+    4300012: Etrier_l
+    4300014: avant_roue4_l
+    4300016: aerodynamique_l
+    4300018: aerodynamique2_l
+    4300020: aerodynamique3_l
+    4300022: aerodynamique4_l
+    4300024: voiture2_l
+    4300026: vitre_phare_l
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

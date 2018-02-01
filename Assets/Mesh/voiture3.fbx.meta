@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 9802987afaf4e134d93afa22a29034c4
+timeCreated: 1464719167
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: frein
+    100002: inte
+    100004: inte 1
+    100006: inte 2
+    100008: inte 3
+    100010: jante
+    100012: jante 1
+    100014: jante 2
+    100016: jante 3
+    100018: jante 4
+    100020: jante 5
+    100022: jante 6
+    100024: jante 7
+    100026: jante1
+    100028: jante1 1
+    100030: jante1 2
+    100032: jante1 3
+    100034: jante2
+    100036: jante2 1
+    100038: jante2 2
+    100040: jante2 3
+    100042: jante3
+    100044: jante3 1
+    100046: jante3 2
+    100048: jante3 3
+    100050: jante4
+    100052: jante4 1
+    100054: jante4 2
+    100056: jante4 3
+    100058: pCylinder1
+    100060: pCylinder2
+    100062: pneu
+    100064: pneu 1
+    100066: pneu 2
+    100068: pneu 3
+    100070: roue
+    100072: roue1
+    100074: roue2
+    100076: roue3
+    100078: roue4
+    100080: voiture
+    100082: //RootNode
+    100084: voiture6
+    100086: voiture7
+    400000: frein
+    400002: inte
+    400004: inte 1
+    400006: inte 2
+    400008: inte 3
+    400010: jante
+    400012: jante 1
+    400014: jante 2
+    400016: jante 3
+    400018: jante 4
+    400020: jante 5
+    400022: jante 6
+    400024: jante 7
+    400026: jante1
+    400028: jante1 1
+    400030: jante1 2
+    400032: jante1 3
+    400034: jante2
+    400036: jante2 1
+    400038: jante2 2
+    400040: jante2 3
+    400042: jante3
+    400044: jante3 1
+    400046: jante3 2
+    400048: jante3 3
+    400050: jante4
+    400052: jante4 1
+    400054: jante4 2
+    400056: jante4 3
+    400058: pCylinder1
+    400060: pCylinder2
+    400062: pneu
+    400064: pneu 1
+    400066: pneu 2
+    400068: pneu 3
+    400070: roue
+    400072: roue1
+    400074: roue2
+    400076: roue3
+    400078: roue4
+    400080: voiture
+    400082: //RootNode
+    400084: voiture6
+    400086: voiture7
+    2300000: inte
+    2300002: inte 1
+    2300004: inte 2
+    2300006: inte 3
+    2300008: jante 4
+    2300010: jante 5
+    2300012: jante 6
+    2300014: jante 7
+    2300016: jante1
+    2300018: jante1 1
+    2300020: jante1 2
+    2300022: jante1 3
+    2300024: jante2
+    2300026: jante2 1
+    2300028: jante2 2
+    2300030: jante2 3
+    2300032: jante3
+    2300034: jante3 1
+    2300036: jante3 2
+    2300038: jante3 3
+    2300040: jante4
+    2300042: jante4 1
+    2300044: jante4 2
+    2300046: jante4 3
+    2300048: pCylinder1
+    2300050: pCylinder2
+    2300052: pneu
+    2300054: pneu 1
+    2300056: pneu 2
+    2300058: pneu 3
+    2300060: voiture
+    2300062: voiture6
+    2300064: voiture7
+    3300000: inte
+    3300002: inte 1
+    3300004: inte 2
+    3300006: inte 3
+    3300008: jante 4
+    3300010: jante 5
+    3300012: jante 6
+    3300014: jante 7
+    3300016: jante1
+    3300018: jante1 1
+    3300020: jante1 2
+    3300022: jante1 3
+    3300024: jante2
+    3300026: jante2 1
+    3300028: jante2 2
+    3300030: jante2 3
+    3300032: jante3
+    3300034: jante3 1
+    3300036: jante3 2
+    3300038: jante3 3
+    3300040: jante4
+    3300042: jante4 1
+    3300044: jante4 2
+    3300046: jante4 3
+    3300048: pCylinder1
+    3300050: pCylinder2
+    3300052: pneu
+    3300054: pneu 1
+    3300056: pneu 2
+    3300058: pneu 3
+    3300060: voiture
+    3300062: voiture6
+    3300064: voiture7
+    4300000: voiture6
+    4300002: voiture7
+    4300004: pCylinder1
+    4300006: pCylinder2
+    4300008: inte
+    4300010: pneu
+    4300012: jante
+    4300014: jante1
+    4300016: jante2
+    4300018: jante3
+    4300020: jante4
+    4300022: inte
+    4300024: pneu
+    4300026: jante
+    4300028: jante1
+    4300030: jante2
+    4300032: jante3
+    4300034: jante4
+    4300036: inte
+    4300038: pneu
+    4300040: jante
+    4300042: jante1
+    4300044: jante2
+    4300046: jante3
+    4300048: jante4
+    4300050: inte
+    4300052: pneu
+    4300054: jante
+    4300056: jante1
+    4300058: jante2
+    4300060: jante3
+    4300062: jante4
+    4300064: voiture
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

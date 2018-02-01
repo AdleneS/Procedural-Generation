@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 8febb2aab58c0394f9a01979ee107a69
+timeCreated: 1464295055
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aileron
+    100002: Aileron_L
+    100004: "a\xE9rodynamique_arriere"
+    100006: "a\xE9rodynamique_avant"
+    100008: branche1_L
+    100010: branche2_L
+    100012: branche3_L
+    100014: branche_L
+    100016: droite1_L
+    100018: droite_L
+    100020: Etrier_L
+    100022: Etrier_L 1
+    100024: Etrier_L 2
+    100026: Etrier_L 3
+    100028: Frein
+    100030: Frein 1
+    100032: Frein 2
+    100034: Frein 3
+    100036: Frein_accroche_L
+    100038: Frein_accroche_L 1
+    100040: Frein_accroche_L 2
+    100042: Frein_accroche_L 3
+    100044: Frein_disque_L
+    100046: Frein_disque_L 1
+    100048: Frein_disque_L 2
+    100050: Frein_disque_L 3
+    100052: gauche_L
+    100054: gauche_L 1
+    100056: Jante
+    100058: Jante 1
+    100060: Jante 2
+    100062: Jante 3
+    100064: Jante_centre_L
+    100066: Jante_centre_L 1
+    100068: Jante_centre_L 2
+    100070: Jante_centreu_L
+    100072: Jante_tour_L
+    100074: Jante_tour_L 1
+    100076: Jante_tour_L 2
+    100078: Jante_tour_L 3
+    100080: plane_arriere
+    100082: plane_arriere1_L
+    100084: plane_arriere2_L
+    100086: Pneu_L
+    100088: Pneu_L 1
+    100090: Pneu_L 2
+    100092: Pneu_L 3
+    100094: porte_Aileron2_L
+    100096: porte_Aileron3_L
+    100098: Rotor
+    100100: Rotor 1
+    100102: Rotor 2
+    100104: Rotor 3
+    100106: Roue_avant
+    100108: Roue_avant 1
+    100110: Roue_avant 2
+    100112: Roue_avant 3
+    100114: Roues
+    100116: Roues2
+    100118: Roues5
+    100120: Roues6
+    100122: Roues7
+    100124: Stator
+    100126: Stator 1
+    100128: Stator 2
+    100130: Stator 3
+    100132: structure
+    100134: structure_Bas1_L
+    100136: structure_Haut2_L
+    100138: Visiere_L
+    100140: //RootNode
+    400000: Aileron
+    400002: Aileron_L
+    400004: "a\xE9rodynamique_arriere"
+    400006: "a\xE9rodynamique_avant"
+    400008: branche1_L
+    400010: branche2_L
+    400012: branche3_L
+    400014: branche_L
+    400016: droite1_L
+    400018: droite_L
+    400020: Etrier_L
+    400022: Etrier_L 1
+    400024: Etrier_L 2
+    400026: Etrier_L 3
+    400028: Frein
+    400030: Frein 1
+    400032: Frein 2
+    400034: Frein 3
+    400036: Frein_accroche_L
+    400038: Frein_accroche_L 1
+    400040: Frein_accroche_L 2
+    400042: Frein_accroche_L 3
+    400044: Frein_disque_L
+    400046: Frein_disque_L 1
+    400048: Frein_disque_L 2
+    400050: Frein_disque_L 3
+    400052: gauche_L
+    400054: gauche_L 1
+    400056: Jante
+    400058: Jante 1
+    400060: Jante 2
+    400062: Jante 3
+    400064: Jante_centre_L
+    400066: Jante_centre_L 1
+    400068: Jante_centre_L 2
+    400070: Jante_centreu_L
+    400072: Jante_tour_L
+    400074: Jante_tour_L 1
+    400076: Jante_tour_L 2
+    400078: Jante_tour_L 3
+    400080: plane_arriere
+    400082: plane_arriere1_L
+    400084: plane_arriere2_L
+    400086: Pneu_L
+    400088: Pneu_L 1
+    400090: Pneu_L 2
+    400092: Pneu_L 3
+    400094: porte_Aileron2_L
+    400096: porte_Aileron3_L
+    400098: Rotor
+    400100: Rotor 1
+    400102: Rotor 2
+    400104: Rotor 3
+    400106: Roue_avant
+    400108: Roue_avant 1
+    400110: Roue_avant 2
+    400112: Roue_avant 3
+    400114: Roues
+    400116: Roues2
+    400118: Roues5
+    400120: Roues6
+    400122: Roues7
+    400124: Stator
+    400126: Stator 1
+    400128: Stator 2
+    400130: Stator 3
+    400132: structure
+    400134: structure_Bas1_L
+    400136: structure_Haut2_L
+    400138: Visiere_L
+    400140: //RootNode
+    2300000: Aileron_L
+    2300002: branche1_L
+    2300004: branche2_L
+    2300006: branche3_L
+    2300008: branche_L
+    2300010: droite1_L
+    2300012: droite_L
+    2300014: Etrier_L
+    2300016: Etrier_L 1
+    2300018: Etrier_L 2
+    2300020: Etrier_L 3
+    2300022: Frein_accroche_L
+    2300024: Frein_accroche_L 1
+    2300026: Frein_accroche_L 2
+    2300028: Frein_accroche_L 3
+    2300030: Frein_disque_L
+    2300032: Frein_disque_L 1
+    2300034: Frein_disque_L 2
+    2300036: Frein_disque_L 3
+    2300038: gauche_L
+    2300040: gauche_L 1
+    2300042: Jante_centre_L
+    2300044: Jante_centre_L 1
+    2300046: Jante_centre_L 2
+    2300048: Jante_centreu_L
+    2300050: Jante_tour_L
+    2300052: Jante_tour_L 1
+    2300054: Jante_tour_L 2
+    2300056: Jante_tour_L 3
+    2300058: plane_arriere1_L
+    2300060: plane_arriere2_L
+    2300062: Pneu_L
+    2300064: Pneu_L 1
+    2300066: Pneu_L 2
+    2300068: Pneu_L 3
+    2300070: porte_Aileron2_L
+    2300072: porte_Aileron3_L
+    2300074: structure_Bas1_L
+    2300076: structure_Haut2_L
+    2300078: Visiere_L
+    3300000: Aileron_L
+    3300002: branche1_L
+    3300004: branche2_L
+    3300006: branche3_L
+    3300008: branche_L
+    3300010: droite1_L
+    3300012: droite_L
+    3300014: Etrier_L
+    3300016: Etrier_L 1
+    3300018: Etrier_L 2
+    3300020: Etrier_L 3
+    3300022: Frein_accroche_L
+    3300024: Frein_accroche_L 1
+    3300026: Frein_accroche_L 2
+    3300028: Frein_accroche_L 3
+    3300030: Frein_disque_L
+    3300032: Frein_disque_L 1
+    3300034: Frein_disque_L 2
+    3300036: Frein_disque_L 3
+    3300038: gauche_L
+    3300040: gauche_L 1
+    3300042: Jante_centre_L
+    3300044: Jante_centre_L 1
+    3300046: Jante_centre_L 2
+    3300048: Jante_centreu_L
+    3300050: Jante_tour_L
+    3300052: Jante_tour_L 1
+    3300054: Jante_tour_L 2
+    3300056: Jante_tour_L 3
+    3300058: plane_arriere1_L
+    3300060: plane_arriere2_L
+    3300062: Pneu_L
+    3300064: Pneu_L 1
+    3300066: Pneu_L 2
+    3300068: Pneu_L 3
+    3300070: porte_Aileron2_L
+    3300072: porte_Aileron3_L
+    3300074: structure_Bas1_L
+    3300076: structure_Haut2_L
+    3300078: Visiere_L
+    4300000: Visiere_L
+    4300002: Jante_centre_L
+    4300004: Jante_tour_L
+    4300006: branche_L
+    4300008: Frein_accroche_L
+    4300010: Frein_disque_L
+    4300012: Pneu_L
+    4300014: Etrier_L
+    4300016: branche1_L
+    4300018: Jante_centre_L
+    4300020: Jante_tour_L
+    4300022: Frein_accroche_L
+    4300024: Frein_disque_L
+    4300026: Pneu_L
+    4300028: Etrier_L
+    4300030: branche2_L
+    4300032: Jante_centre_L
+    4300034: Jante_tour_L
+    4300036: Frein_accroche_L
+    4300038: Frein_disque_L
+    4300040: Pneu_L
+    4300042: Etrier_L
+    4300044: branche3_L
+    4300046: Jante_centreu_L
+    4300048: Jante_tour_L
+    4300050: Frein_accroche_L
+    4300052: Frein_disque_L
+    4300054: Pneu_L
+    4300056: Etrier_L
+    4300058: porte_Aileron2_L
+    4300060: Aileron_L
+    4300062: porte_Aileron3_L
+    4300064: plane_arriere1_L
+    4300066: plane_arriere2_L
+    4300068: structure_Haut2_L
+    4300070: structure_Bas1_L
+    4300072: gauche_L
+    4300074: droite_L
+    4300076: gauche_L
+    4300078: droite1_L
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
